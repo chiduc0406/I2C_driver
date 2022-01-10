@@ -1,0 +1,6 @@
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407zetx.o"
+"./drivers/Src/stm32f407xx_i2c_driver.o"
+"./drivers/Src/stm32f407xx_rcc_driver.o"
